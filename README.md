@@ -39,8 +39,8 @@ Each line = One issue document:
   }
 }
 
----
 
-## Setup
+
+# Setup
 - pip install -r requirements.txt
----
+
