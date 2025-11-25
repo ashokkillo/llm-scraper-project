@@ -38,3 +38,8 @@ Each line = One issue document:
     "qa_pairs": []
   }
 }
+
+
+## 📁 Setup
+- pip install -r requirements.txt
+
